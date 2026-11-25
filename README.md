@@ -2,8 +2,8 @@
 
 Tres juegos desarrollados para el ramo **Desarrollo de Videojuegos** de Ingeniería
 Civil Informática en la UCSC (2026), en dupla con
-[Luis Felipe Núñez](https://github.com/lufenunez). Nos repartimos el trabajo de
-forma pareja en todos: programación de scripts en C#, integración de assets,
+[Luis Felipe Núñez](https://github.com/lufenunez). En el desarrollo nos repartimos
+el trabajo de forma pareja: programación de scripts en C#, integración de assets,
 diseño de niveles y pruebas.
 
 > Este repositorio es una vitrina: muestra cada juego con capturas y una
@@ -24,6 +24,10 @@ diseño de niveles y pruebas.
 comisaría está tomada por infectados. Juegas como **Vera**, una detenida que escapa
 de su celda y debe abrirse paso entre zombis, resolver puzles y administrar
 munición, armas y recursos escasos para encontrar la salida.
+
+> **Créditos:** la idea del juego, la historia, la trama y el diseño de los puzles
+> son de [Luis Felipe Núñez](https://github.com/lufenunez). El desarrollo en Unity
+> lo hicimos entre los dos.
 
 <!-- CAPTURAS Y GIF PENDIENTES
 ![Hollow Devotion](capturas/hollow-devotion/gameplay.gif)
