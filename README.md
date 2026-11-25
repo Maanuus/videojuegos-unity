@@ -26,8 +26,7 @@ de su celda y debe abrirse paso entre zombis, resolver puzles y administrar
 munición, armas y recursos escasos para encontrar la salida.
 
 > **Créditos:** la idea del juego, la historia, la trama y el diseño de los puzles
-> son de [Luis Felipe Núñez](https://github.com/lufenunez). El desarrollo en Unity
-> lo hicimos entre los dos.
+> son de [Luis Felipe Núñez](https://github.com/lufenunez). 
 
 <!-- CAPTURAS Y GIF PENDIENTES
 ![Hollow Devotion](capturas/hollow-devotion/gameplay.gif)
