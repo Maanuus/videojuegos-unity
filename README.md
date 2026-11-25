@@ -13,7 +13,7 @@ diseño de niveles y pruebas.
 | Juego | Género | Estado de la vitrina |
 |---|---|---|
 | [Hollow Devotion](#hollow-devotion) | Survival horror en tercera persona | Capturas pendientes |
-| [El Tesoro de Barba Negra](#el-tesoro-de-barba-negra) | Plataformas | Capturas pendientes |
+| [El Tesoro de Barba Negra](#el-tesoro-de-barba-negra) | Plataformas 3D | ✅ |
 | [Galaga3D](#galaga3d) | Shooter espacial arcade | ✅ |
 
 ---
@@ -39,14 +39,21 @@ munición, armas y recursos escasos para encontrar la salida.
 
 ## El Tesoro de Barba Negra
 
-**Juego de plataformas.** Controlas a un pirata que salta obstáculos en el mar
-mientras recolecta gemas para llegar al tesoro.
+**Plataformas 3D en tercera persona.** Controlas a un pirata que avanza por muelles,
+barriles, botes y cajas en medio del mar para reunir los 20 tesoros. Si caes al
+agua pierdes una vida; con Shift corres y saltas más lejos, y el **Ron del
+capitán** da un súper salto y protección por unos segundos. Un HUD muestra las
+vidas, los tesoros reunidos y el tiempo.
 
-<!-- CAPTURAS Y GIF PENDIENTES
-![El Tesoro de Barba Negra](capturas/barba-negra/gameplay.gif)
--->
+![Partida de El Tesoro de Barba Negra](capturas/barba-negra/gameplay.gif)
 
-`Unity` `C#` `Plataformas` `Física de salto` `Coleccionables`
+<p>
+  <img src="capturas/barba-negra/portada.jpg" alt="Menú principal" width="32%">
+  <img src="capturas/barba-negra/muelle.jpg" alt="Inicio del nivel en el muelle" width="32%">
+  <img src="capturas/barba-negra/nivel.jpg" alt="Recorrido por el nivel" width="32%">
+</p>
+
+`Unity` `C#` `Tercera persona` `Plataformas 3D` `Power-ups` `HUD`
 
 ---
 
