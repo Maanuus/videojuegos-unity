@@ -10,11 +10,11 @@ diseño de niveles y pruebas.
 > descripción. El código no se publica porque los proyectos usan paquetes de
 > assets con licencia que no permite redistribuirlos.
 
-| Juego | Género | Estado de la vitrina |
-|---|---|---|
-| [Hollow Devotion](#hollow-devotion) | Survival horror en tercera persona | Capturas pendientes |
-| [El Tesoro de Barba Negra](#el-tesoro-de-barba-negra) | Plataformas 3D | ✅ |
-| [Galaga3D](#galaga3d) | Shooter espacial arcade | ✅ |
+| Juego | Género |
+|---|---|
+| [Hollow Devotion](#hollow-devotion) | Survival horror en tercera persona |
+| [El Tesoro de Barba Negra](#el-tesoro-de-barba-negra) | Plataformas 3D en tercera persona |
+| [Galaga3D](#galaga3d) | Shooter espacial arcade |
 
 ---
 
@@ -28,11 +28,22 @@ munición, armas y recursos escasos para encontrar la salida.
 > **Créditos:** la idea del juego, la historia, la trama y el diseño de los puzles
 > son de [Luis Felipe Núñez](https://github.com/lufenunez). 
 
-<!-- CAPTURAS Y GIF PENDIENTES
-![Hollow Devotion](capturas/hollow-devotion/gameplay.gif)
--->
+La partida comienza con una introducción narrada y diálogos entre personajes.
+Después, Vera explora la comisaría en tercera persona: combate cuerpo a cuerpo con
+cuchilla y remates, armas de fuego con munición limitada, una barra de vida e
+interacción con el entorno (examinar, abrir puertas, recoger objetos). Un menú
+estilo libro reúne el **inventario**, los **documentos** encontrados y el **mapa**.
 
-`Unity` `C#` `Tercera persona` `IA de enemigos` `Inventario y recursos` `Puzles`
+![Partida de Hollow Devotion](capturas/hollow-devotion/gameplay.gif)
+
+<p>
+  <img src="capturas/hollow-devotion/portada.jpg" alt="Menú principal" width="49%">
+  <img src="capturas/hollow-devotion/celda.jpg" alt="Diálogo de Vera en la celda" width="49%">
+  <img src="capturas/hollow-devotion/combate.jpg" alt="Enfrentamiento con un policía infectado" width="49%">
+  <img src="capturas/hollow-devotion/inventario.jpg" alt="Inventario con cuchilla y pistola" width="49%">
+</p>
+
+`Unity` `C#` `Tercera persona` `Combate` `Inventario` `Diálogos` `Puzles`
 
 ---
 
